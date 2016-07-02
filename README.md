@@ -17,7 +17,7 @@ npm install grunt-jquery-ready --dev-save
 
 ```javascript
 grunt.initConfig({
-  jquery-ready : {
+  'jquery-ready' : {
       path: 'public/scrips.js',
       runSync: false
   }

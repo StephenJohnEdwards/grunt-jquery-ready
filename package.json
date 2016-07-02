@@ -1,6 +1,6 @@
 {
   "name": "grunt-jquery-ready",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Wraps final .js file into JQuery's .ready() function",
   "main": "tasks/ready.js",
   "scripts": {

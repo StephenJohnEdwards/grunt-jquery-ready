@@ -1,0 +1,25 @@
+{
+  "name": "grunt-jquery-ready",
+  "version": "1.0.0",
+  "description": "Wraps final .js file into JQuery's .ready() function",
+  "main": "tasks/ready.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krizzu/grunt-jquery-ready.git"
+  },
+  "keywords": [
+    "jquery",
+    "ready",
+    "gruntplugin",
+    "grunt"
+  ],
+  "author": "Krizzu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krizzu/grunt-jquery-ready/issues"
+  },
+  "homepage": "https://github.com/Krizzu/grunt-jquery-ready#readme"
+}

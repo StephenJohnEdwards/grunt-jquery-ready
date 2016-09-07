@@ -38,4 +38,4 @@ grunt.registerTask('default', "jquery-ready");
 ```grunt```
 
 
-## Thanks!
+Thanks!

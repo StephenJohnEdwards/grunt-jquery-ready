@@ -1,0 +1,15 @@
+{
+    "name": "jquery-ready-tests",
+    "version": "0.1.0",
+    "author": {
+        "name": "Stephen John Edwards",
+        "email": "s.edwards@outlook.de"
+    },
+    "devDependencies": {
+        "grunt": "1.0.4",
+        "grunt-jquery-ready": "file:../"
+    },
+    "dependencies": {
+        "grunt-jquery-ready": "file:../"
+    }
+}
